@@ -48,7 +48,7 @@ video {
 @media screen and (max-width: 500px){
   video{
     margin-top: -20px;
-    
+    margin-bottom: 20px;
 
 
   }
@@ -89,7 +89,6 @@ video {
 }
 @media screen and (max-width: 500px){
   .piano-text{
-   padding-top: 2%;
    margin-left: 5px;
    margin-right: 0px;
    width: 100%;
