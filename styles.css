@@ -48,6 +48,7 @@ video {
 @media screen and (max-width: 500px){
   video{
     margin-top: -20px;
+    height: auto;
 
 
   }
