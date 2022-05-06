@@ -89,7 +89,6 @@ video {
 }
 @media screen and (max-width: 500px){
   .piano-text{
-   margin-top: -40px;
    margin-left: 5px;
    margin-right: 0px;
    width: 100%;
