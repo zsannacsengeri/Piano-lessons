@@ -93,6 +93,7 @@ video {
    margin-right: 0px;
    width: 100%;
    padding: 5%;
+   padding-bottom: 40px;
    white-space: inherit;
   }
 }
