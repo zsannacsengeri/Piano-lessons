@@ -35,6 +35,18 @@ nav {
   color: #1b1b1b;
 
 }
+
+@media screen and (max-width: 500px){
+	
+.btn:hover{
+  border: 1.5mm ridge #AAAAAA;
+  background:rgba(0, 0, 0, 0.4);
+  background:#fff;
+  padding: 1px 1px;
+  color: #1b1b1b;
+
+}
+}
 video {
   position: absolute;
   width: 100%;
