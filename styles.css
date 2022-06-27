@@ -28,24 +28,11 @@ nav {
 }
 
 .btn:hover{
-  border: 3.5mm ridge #AAAAAA;
+
   background:rgba(0, 0, 0, 0.4);
   background:#fff;
-  padding: 5px 5px;
-  color: #1b1b1b;
+  color: #000;
 
-}
-
-@media screen and (max-width: 500px){
-	
-.btn:hover{
-  border: 1.5mm ridge #AAAAAA;
-  background:rgba(0, 0, 0, 0.4);
-  background:#fff;
-  padding: 1px 1px;
-  color: #1b1b1b;
-
-}
 }
 video {
   position: absolute;
@@ -60,7 +47,6 @@ video {
 @media screen and (max-width: 500px){
   video{
     margin-top: -20px;
-   
 
 
   }
@@ -96,12 +82,12 @@ video {
  width: 490px;
  height: auto;
  white-space: pre-line;
- margin-top: -80px;
+ margin-top: -65px;
  margin-left: 100px;
 }
 @media screen and (max-width: 500px){
   .piano-text{
-   margin-top: 30px;
+   margin-top: -50px;
    margin-left: 5px;
    margin-right: 0px;
    width: 100%;
@@ -114,7 +100,7 @@ video {
   width: 700px;
   height: auto;
   margin-left: 740px;
-  margin-top: -465px;
+  margin-top: -495px;
   white-space: pre-line;
 
 
@@ -131,7 +117,7 @@ video {
     width: 490px;
     height: auto;
     margin-left: 850px;
-    margin-top: 50px;
+    margin-top: 40px;
 
   }
   @media screen and (max-width:500px){
@@ -159,7 +145,7 @@ video {
   height: auto;
   white-space: pre-line;
   margin-left: 100px;
-  margin-top: 30px;
+  margin-top: 45px;
 }
 @media screen and (max-width:500px){
  .why-part{
@@ -174,9 +160,9 @@ video {
 }
 .why-photo{
   width: 700px;
-  height: 450px;
+  height: 415px;
   margin-left: 740px;
-  margin-top: -377px;
+  margin-top: -390px;
 }
 
 @media screen and (max-width:500px){
